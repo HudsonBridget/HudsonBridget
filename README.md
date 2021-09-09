@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HudsonBridget
 - 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning Java
 
 <!---
 HudsonBridget/HudsonBridget is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
